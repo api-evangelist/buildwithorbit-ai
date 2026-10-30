@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-buildwithorbit-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://buildwithorbit.ai/
+Orbit by Postman is an AI‑enabled API discovery and integration platform that lets developers and agents turn any task into the right API calls. It offers a public MCP server for seamless tool integration, comprehensive documentation, changelog, and quick‑start guides. The service provides both REST endpoints and an MCP interface, supporting tools like Claude, Cursor, VSCode, and Codex/ChatGPT to add the Orbit MCP server easily.
+
+**Areas:** AI · API-Discovery · Integration · MCP · Postman · Platform
+
+## buildwithorbit-ai on APIs.io
+
+Everything profiled for buildwithorbit-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/buildwithorbit-ai/](https://apis.io/providers/buildwithorbit-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [buildwithorbit-ai Integrate API](https://apis.io/apis/buildwithorbit-ai/buildwithorbit-ai-integrate-api/) — The Integrate API from buildwithorbit-ai — 1 operation(s) for integrate.
+- [buildwithorbit-ai Search API](https://apis.io/apis/buildwithorbit-ai/buildwithorbit-ai-search-api/) — The Search API from buildwithorbit-ai — 1 operation(s) for search.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Buildwithorbit Ai Agentic Access](https://apis.io/agentic-access/buildwithorbit-ai/buildwithorbit-ai-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [integratePublicEndpoints_Response_200](https://apis.io/schemas/buildwithorbit-ai/buildwithorbit-ai-integrate-public-endpoints-response-200/)
+- [searchPublicEndpoints_Response_200](https://apis.io/schemas/buildwithorbit-ai/buildwithorbit-ai-search-public-endpoints-response-200/)
+- [V1IntegratePostRequestBodyContentApplicationJsonSchemaResourcesItems](https://apis.io/schemas/buildwithorbit-ai/buildwithorbit-ai-v1-integrate-post-request-body-content-application-json-schema-resources-items/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Buildwithorbit Ai Context](https://apis.io/jsonld/buildwithorbit-ai/buildwithorbit-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [buildwithorbit-ai API Rules](https://apis.io/rules/buildwithorbit-ai/buildwithorbit-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Buildwithorbit Ai Authentication](https://apis.io/security/buildwithorbit-ai/buildwithorbit-ai-authentication/)
+- [Buildwithorbit Ai Domain Security](https://apis.io/security/buildwithorbit-ai/buildwithorbit-ai-domain-security/)
+- [Buildwithorbit Ai Vulnerability Disclosure](https://apis.io/security/buildwithorbit-ai/buildwithorbit-ai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://buildwithorbit.ai/)
+- [Documentation](https://docs.buildwithorbit.ai/)
+- [Getting started](https://www.buildwithorbit.ai/docs/get-started/welcome)
+- [API reference](https://www.buildwithorbit.ai/api-reference)
+- [Terms of service](https://www.postman.com/legal/orbit-terms-of-service/)
+
+## API Evangelist rating
+
+**Kin Score 45.9** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 59.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 10.5 |
+
+**Agent readiness 54.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/buildwithorbit-ai/](https://apis.io/providers/buildwithorbit-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for buildwithorbit-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/buildwithorbit-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
